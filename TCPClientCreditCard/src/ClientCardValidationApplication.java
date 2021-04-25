@@ -5,6 +5,15 @@ import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
+/**
+ * This class launch the client side application using TCP.
+ * The server generates status message after validate the credit card number
+ * Each connected client will received status message from the server.
+ * 
+ * @author Nur Afiqah Raman
+ *
+ */
+
 public class ClientCardValidationApplication {
 
 	public static void main(String[] args) throws UnknownHostException, IOException {
