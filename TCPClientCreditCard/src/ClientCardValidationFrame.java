@@ -8,9 +8,9 @@ import javax.swing.JPanel;
 
 /**
  * This class represent the window for the client side TCP application.
- * It display the date retrieve from the server.
+ * It display the status message retrieve from the server.
  * 
- * @author afiqah
+ * @author Nur Afiqah Raman
  *
  */
 public class ClientCardValidationFrame extends JFrame {
